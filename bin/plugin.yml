@@ -1,0 +1,6 @@
+name: NuggetPayment
+main: me.Iorgreths.NuggetPayment.NuggetPayment
+version: 1.0
+description: Implements Gold as money to the game.
+author: Iorgreths
+authors: [Berny92, Iorgreths]
